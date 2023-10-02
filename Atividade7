@@ -1,0 +1,6 @@
+lado = input("digite o lado do quadrado")
+
+calc = float(lado) * float(lado)
+calc1 = calc * 2
+
+print(float(calc1))
