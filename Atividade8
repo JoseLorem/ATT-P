@@ -1,6 +1,0 @@
-horasT = input("digite suas horas trabalhadas por mes")
-quantG = input("digite quanto ganha por hora")
-
-calc = float(horasT) * float(quantG)
-
-print(float(calc))
