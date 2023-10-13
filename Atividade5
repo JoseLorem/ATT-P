@@ -1,4 +1,0 @@
-metr = input('Digite a quantia de metros')
-
-calc = float(metr) * 100
-print(float(calc))
