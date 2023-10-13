@@ -1,6 +1,0 @@
-val = float(input("digite um valor"))
-
-if val > 0:
-    print("valor positivo")
-else: 
-    print("valor negativo")
