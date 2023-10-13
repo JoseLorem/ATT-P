@@ -1,5 +1,0 @@
-raio = input("digite o raio do circulo")
-
-calc = 3.14 * (float(raio)*float(raio))
-
-print(float(calc))
