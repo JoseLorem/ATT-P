@@ -1,4 +1,0 @@
-num = input("Digite um número")
-num1 = input("Digite outro número")
-
-print(float(num) + float(num1))
