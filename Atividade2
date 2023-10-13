@@ -1,3 +1,0 @@
-num = input("Digite um número")
-
-print(float(num))
