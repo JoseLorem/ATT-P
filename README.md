@@ -1,5 +1,5 @@
 # ListasPy
 # Dupla
-Rafael Vinicius da Silva Correia de Araújo - 01598564
+jose lourenço de andrade neto - 01574884
 
-Ewerton José dos Santos Melo - 01590057
+Rafael francisco caetano dos santos - 01573983
